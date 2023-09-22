@@ -1,0 +1,45 @@
+.logo {
+    display: flex;
+    align-items: center;
+}
+.picture{
+    background-image: url("https://img.freepik.com/free-photo/luxury-modern-living-room-with-rustic-elegance-generated-by-ai_188544-21513.jpg?t=st=1695374976~exp=1695378576~hmac=eabc17626b11e4891a8d42dd380edbe91b9e1392454245e3c1a42ab803c067f6&w=1800");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+   position: relative;
+    
+   
+}
+
+.picture #text{
+    overflow: hidden;
+    height: 50px;
+    vertical-align: baseline;
+
+}
+.topp{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.font-size{
+    color: white;
+}
+.picture-5{
+    background-image: url("https://img.freepik.com/free-photo/teamwork-concept-with-architects_23-2147702539.jpg?w=1480&t=st=1695377570~exp=1695378170~hmac=163bd0660fd4926f481aa59124de353ef7fb65ead83869a6f0bb01a53192836a");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+}
+
+.copyright a{
+    text-decoration: none;
+    color: gray;
+}
